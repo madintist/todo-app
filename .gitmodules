@@ -1,0 +1,3 @@
+[submodule "src/todo-app-vue"]
+	path = src/todo-app-vue
+	url = git@github.com:madintist/todo-app-vue.git
